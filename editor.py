@@ -70,6 +70,7 @@ class StyleTypeValue:
 	SongSpecific = 1
 	QuickJam = 2
 	Menu = 3
+	Unused = 4
 
 class LoadedFile:
 	def __init__(self,path,type):
